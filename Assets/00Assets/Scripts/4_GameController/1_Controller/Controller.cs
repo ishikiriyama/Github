@@ -1,0 +1,3 @@
+namespace Projects.GameController.Controller
+{
+}

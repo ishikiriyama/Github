@@ -1,0 +1,23 @@
+{
+    "name": "Projects.Presentation.Input",
+    "rootNamespace": "Projects.Presentation.Input",
+    "references": [
+        "Projects.Core.Domain",
+        "Projects.Core.DomainEvents",
+        "Projects.Integration.Data",
+        "Projects.Integration.ApplicationService",
+        "R3.Unity",
+        "UniTask",
+        "Unity.InputSystem",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

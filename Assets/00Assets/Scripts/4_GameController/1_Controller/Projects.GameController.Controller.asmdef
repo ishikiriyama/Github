@@ -1,0 +1,28 @@
+{
+    "name": "Projects.GameController.Controller",
+    "rootNamespace": "Projects.GameController.Controller",
+    "references": [
+        "Projects.Core.Domain",
+        "Projects.Core.DomainEvents",
+        "Projects.Integration.Data",
+        "Projects.Integration.ApplicationService",
+        "Projects.Presentation.Input",
+        "Projects.Presentation.SceneEntity",
+        "Projects.Presentation.UI",
+        "MessagePipe",
+        "MessagePipe.VContainer",
+        "R3.Unity",
+        "UniTask",
+        "Unity.InputSystem",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

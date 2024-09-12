@@ -1,0 +1,29 @@
+{
+    "name": "Projects.Presentation.UI",
+    "rootNamespace": "Projects.Presentation.UI",
+    "references": [
+        "Projects.Core.Domain",
+        "Projects.Core.DomainEvents",
+        "Projects.Integration.Data",
+        "Projects.Integration.ApplicationService",
+        "Projects.Presentation.Input",
+        "Projects.Presentation.SceneEntity",
+        "EasySave3",
+        "DOTween.Modules",
+        "MessagePipe",
+        "R3.Unity",
+        "UniTask",
+        "Unity.InputSystem",
+        "Unity.TextMeshPro",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

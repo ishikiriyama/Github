@@ -1,0 +1,23 @@
+{
+    "name": "Projects.Integration.ApplicationService",
+    "rootNamespace": "Projects.Integration.ApplicationService",
+    "references": [
+        "Projects.Core.Domain",
+        "Projects.Core.DomainEvents",
+        "Projects.Integration.Data",
+        "MessagePipe",
+        "R3.Unity",
+        "UniTask",
+        "Unity.InputSystem",
+        "VContainer"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

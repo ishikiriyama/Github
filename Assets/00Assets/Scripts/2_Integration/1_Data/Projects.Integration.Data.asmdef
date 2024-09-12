@@ -1,0 +1,19 @@
+{
+    "name": "Projects.Integration.Data",
+    "rootNamespace": "Projects.Integration.Data",
+    "references": [
+        "Projects.Core.Domain",
+        "Projects.Core.DomainEvents",
+        "R3.Unity",
+        "EasySave3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
